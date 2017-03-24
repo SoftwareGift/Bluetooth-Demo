@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
+        "source": "F:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "F:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "F:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "F:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\server.xml",
+        "source": "F:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\src\\main\\res\\layout\\server.xml"
+    },
+    {
+        "merged": "F:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\client.xml",
+        "source": "F:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\src\\main\\res\\layout\\client.xml"
+    }
+]

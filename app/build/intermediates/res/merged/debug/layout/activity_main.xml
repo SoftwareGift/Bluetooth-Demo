@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="\r\n蓝牙聊天程序，使用两个手机，然后都安装上这个软件，两个手机间通过蓝牙通信\r\n" >
+    </TextView>
+
+    <Button
+        android:id="@+id/startServerBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="打开服务端" >
+    </Button>
+
+    <Button
+        android:id="@+id/startClientBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="打开客户端" >
+    </Button>
+
+</LinearLayout>

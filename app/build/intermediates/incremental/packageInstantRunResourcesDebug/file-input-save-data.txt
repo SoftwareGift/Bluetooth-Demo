@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Mar 24 18:14:31 CST 2017
+2.base=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\server.xml
+2.set=ANDROID_RESOURCE
+4.base=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main1.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\item.xml
+5.base=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+1.set=ANDROID_RESOURCE
+7.base=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\client.xml
+3.set=ANDROID_RESOURCE
+1.base=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\soft\\Android\\AndroidProject\\bluetoothdemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+0.set=ANDROID_RESOURCE

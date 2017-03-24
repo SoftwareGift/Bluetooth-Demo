@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\soft\Android\AndroidProject\bluetoothdemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad590d99a58dee9942d71cbb822c11a87a03456">
+        <dex dex="F:\soft\Android\AndroidProject\bluetoothdemo1\app\build\intermediates\pre-dexed\debug\instant-run_f3f35b0c4773c4218d9d49ddefd80dc643aec029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\Android\AndroidProject\bluetoothdemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03475280d4f7492ec1ca7d1d6b2a5c7030958765">
+        <dex dex="F:\soft\Android\AndroidProject\bluetoothdemo1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7e63850cd9f0956a791b268543e77fe7f99ba6e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\soft\Android\AndroidProject\bluetoothdemo1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_66678dab5d293b5b32e5cd8ecb64185f1d1a06fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\Android\AndroidProject\bluetoothdemo1\app\libs\eventbus.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ac3aecbcd0affbf212772bdea3b7d3e889fb2e6">
+        <dex dex="F:\soft\Android\AndroidProject\bluetoothdemo1\app\build\intermediates\pre-dexed\debug\eventbus_8a84d5267a50d72d362e24f019746bec5874769a.jar" />
+    </item>
+
+</items>
